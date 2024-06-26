@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I'm Shady Atef, a CS Student based in Egypt. Here's a little bit about me:
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=shady-ateff&color=blue)
 
 <!-- - 🔭 I’m currently working on [Current Project or Job]. -->
 - 🌱 I’m currently learning Flutter & Dart .
@@ -37,14 +37,14 @@ I'm Shady Atef, a CS Student based in Egypt. Here's a little bit about me:
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shady-ateff&show_icons=true&theme=radical)](https://github.com/yourusername)
 
 ## Connect with Me
 
-- LinkedIn: [[Your LinkedIn Profile URL](https://www.linkedin.com/in/shadyatef/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shadyatef/)
 <!-- - Twitter: [Your Twitter Handle]
 - Website: [Your Personal Website URL]-->
-- Email: [shadyatefbakry@gmail.com]
+- Email: shadyatefbakry@gmail.com
 
 Feel free to reach out and connect!
 
