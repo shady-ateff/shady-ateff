@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# About Me
+
+## Hello, World! 👋
+
+I'm Shady Atef, a CS Student based in Egypt. Here's a little bit about me:
+
+<!-- - 🔭 I’m currently working on [Current Project or Job]. -->
+- 🌱 I’m currently learning Flutter & Dart .
+<!--- 👯 I’m looking to collaborate on [Project Types or Areas of Interest].
+- 💬 Ask me about [Your Expertise or Interests].
+- 📫 How to reach me: [Your Contact Information].
+- 😄 Pronouns: [Your Pronouns, if applicable].
+- ⚡ Fun fact: [Interesting Fact About Yourself].-->
+
+## Skills
+
+- Languages: c++ , Java , Dart.
+- Tools & Technologies: Flutter.
+
+## GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+
+## Connect with Me
+
+- LinkedIn: [[Your LinkedIn Profile URL](https://www.linkedin.com/in/shadyatef/)
+<!-- - Twitter: [Your Twitter Handle]
+- Website: [Your Personal Website URL]-->
+- Email: [shadyatefbakry@gmail.com]
+
+Feel free to reach out and connect!
+
