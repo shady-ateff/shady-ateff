@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 # About Me
 
-## Hello, World! 👋
-
 I'm Shady Atef, a CS Student based in Egypt. Here's a little bit about me:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shady-ateff&color=blue)
