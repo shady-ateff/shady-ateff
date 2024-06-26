@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 I'm Shady Atef, a CS Student based in Egypt. Here's a little bit about me:
 
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
 <!-- - 🔭 I’m currently working on [Current Project or Job]. -->
 - 🌱 I’m currently learning Flutter & Dart .
 <!--- 👯 I’m looking to collaborate on [Project Types or Areas of Interest].
