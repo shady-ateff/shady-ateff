@@ -33,7 +33,7 @@ I'm Shady Atef, a CS Student based in Egypt. Here's a little bit about me:
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shady-ateff&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shady-ateff&show_icons=true&theme=radical)](https://github.com/shady-ateff)
 
 ## Connect with Me
 
